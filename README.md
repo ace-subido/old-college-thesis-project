@@ -3,7 +3,7 @@ GCAP (Generic Community Association Portal)
 
 - Sparing you the long paper on what this does: tl;dr - It's a homeowners association management system (residents having their own accounts, can bill homeowners dues, file permits and reserve subdivision/condominium facilities, etc.)
 - "For posterity's sake" - here's our College Thesis Project. Just wanted to put this out here for posterity's sake.
-- Coded way back in 2008.
+- Coded way back in 2008. This is the code that we actually submitted..
 - A little reflection on how I've come a long way on technical skills, and bearing that in mind on what I know now: I have a lot more to learn.
 
 Setup / Development
