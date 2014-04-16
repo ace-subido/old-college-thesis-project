@@ -9,7 +9,7 @@ GCAP (Generic Community Association Portal)
 Setup / Development
 ==========================
 
-I actually forgot, so I have no idea. I went for the code and judging by the code:
+Got this up here just for a little code review, not to actually dev on it again. I actually forgot on how to get this up and running, so I have no idea. I went for the code and judging by the code, here's a sprinkle of tips on how to get it running:
 
 - It's a bunch of `Java Server Pages`
 - We used Netbeans as our IDE, (I have limited knowledge on how Netbeans packages it up for release)
