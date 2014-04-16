@@ -11,12 +11,13 @@ Setup / Development
 
 I actually forgot, so I have no idea. I went for the code and judging by the code:
 
+- It's a bunch of `Java Server Pages`
 - We used Netbeans as our IDE
 - Setup a mysql instance on your machine with a database called `thesis` with the following user: 
 	- username: root
 	- password: root
 - Run the `GCAP-Converge DB.sql` file to generate the schema
 - Compile this into a war file, with the jar files as dependencies.
-- Serve that generated war file along with the `assets` inside the `web` folder.
+- Serve that generated war file along with the `assets` and `jsp` files inside the `web` folder.
 - There's no config files, things are hardcoded - hard as a rock.
 
