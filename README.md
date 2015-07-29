@@ -20,4 +20,14 @@ Got this up here just for a little code review, not to actually dev on it again.
 - Compile the `src` folder into a war file, with the jar files in the root folder as dependencies.
 - Serve that generated war file along with the `assets` and `jsp` files inside the `web` folder.
 
+Authors
+==========================
 
+- Ace Subido
+- Jemuel Dalino
+- Pao Domingo
+- Jay-R Tuason
+
+*Special Thanks to*
+
+- Badit Cuason (star player)
