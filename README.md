@@ -23,11 +23,11 @@ Got this up here just for a little code review, not to actually dev on it again.
 Authors
 ==========================
 
-- Ace Subido
 - Jemuel Dalino
 - Pao Domingo
+- Ace Subido
 - Jay-R Tuason
 
-*Special Thanks to*
+**Special Thanks to**
 
 - Badit Cuason (star player)
